@@ -1,5 +1,5 @@
 """
-subv11.py — Lost-in-Space EO Imaging Planner
+subv8.py — Lost-in-Space EO Imaging Planner
 =============================================
 Strategy: 10 Hz quintic-slerp boustrophedon lawnmower with per-case geometry.
 
